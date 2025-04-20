@@ -10,8 +10,10 @@ colors.setup = function(cfg)
   ---@type od.ColorPalette
   local c = {
     none = 'NONE',
-    bg0 = '#282c34',
-    bg1 = '#21252b',
+    -- bg0 = '#282c34',
+    bg0 = '#181A1F',
+    -- bg1 = '#21252b',
+    bg1 = '#16181d',
     bg_highlight = '#2c313a',
     bg_visual = '#393f4a',
     black0 = '#20232A',
